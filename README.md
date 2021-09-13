@@ -1,6 +1,6 @@
 # CMPE 172 - Lab #10 Notes
 
-In this lab, we developed CI/CD workflow and delpoyed the spring gumball application too GKE.
+In this lab, I developed CI/CD workflow and delpoyed the spring gumball application too GKE.
 
 ## CI Workflow (Part 1)
 
